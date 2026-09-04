@@ -1,0 +1,26 @@
+# Segredos
+.env
+.env.local
+.env.*.local
+
+# Python
+venv/
+.venv/
+__pycache__/
+*.py[cod]
+
+# Node / Next.js
+node_modules/
+.next/
+out/
+next-env.d.ts
+
+# Build / cache
+dist/
+build/
+.vercel/
+*.tsbuildinfo
+
+# Sistema operacional
+Thumbs.db
+.DS_Store
